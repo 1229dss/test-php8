@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=vscode-file://vscode-app/c:/Users/%E6%9C%AC%E5%B1%B1%E3%80%80%E5%BA%B7%E8%B2%B4/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
+HostUrl=file://wsl.localhost/Ubuntu-22.04/home/user/test/develop/database/migrations/2023_03_20_082936_create_folders_table.php
